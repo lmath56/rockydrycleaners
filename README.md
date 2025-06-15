@@ -5,7 +5,7 @@ The Rocky Dry Cleaners Management System is a Java application designed to help 
 
 ![Display All Page](img/display_all.png)
 
-This application was created for my Programming Fundamentals cource at Central Queensland University. This was the first program I ever  made.
+This application was created for my Programming Fundamentals cource at Central Queensland University in course COIT11222 HT1,2019. This was the first program I ever made.
 
 ## Features
 - **Customer Order Entry**: Enter customer names and the number of garments to be cleaned
